@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Student\Documents\LAB_SECTION6\Lab4_060823\NERP_demo\NERP_demo_top.ncd
+OUTFILE=C:\Users\Student\Documents\LAB_SECTION6\Lab4_060823\NERP_demo\NERP_demo_top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\Student\Documents\LAB_SECTION6\Lab4_060823\NERP_demo
+LICENSE=WebPack
+USER_INFO=211888400_0_0_236

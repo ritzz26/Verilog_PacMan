@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Student/Documents/LAB_SECTION6/Lab4/NERP_demo/pac_isim_beh.exe" -prj "C:/Users/Student/Documents/LAB_SECTION6/Lab4/NERP_demo/pac_beh.prj" "work.pac" "work.glbl" 
